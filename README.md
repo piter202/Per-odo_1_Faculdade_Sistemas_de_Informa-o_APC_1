@@ -31,4 +31,4 @@ Como o código utiliza a biblioteca `<math.h>`, é necessário incluir a flag `-
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone [https://github.com/piter202/Per-odo_1_Faculdade_Sistemas_de_Informa-o_APC_1.git](https://github.com/piter202/Per-odo_1_Faculdade_Sistemas_de_Informa-o_APC_1.git)
